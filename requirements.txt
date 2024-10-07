@@ -1,0 +1,35 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+keras
+torch
+flask
+django
+fastapi
+plotly
+bokeh
+altair
+scipy
+sympy
+statsmodels
+nltk
+spacy
+transformers
+opencv-python
+Pillow
+beautifulsoup4
+scrapy
+tkinter  # Note: tkinter usually comes pre-installed with Python.
+pyqt5  # Note: PyQt might require additional setup on some systems.
+unittest  # Built-in, no installation needed
+pytest
+mock  # Note: `unittest.mock` is built-in, no separate installation needed
+requests
+sqlalchemy
+
+
+
+# codigo para instalar las librerias
+sudo pip install --break-system-packages -r requirements.txt
