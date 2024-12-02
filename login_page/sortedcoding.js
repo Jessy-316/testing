@@ -7,6 +7,6 @@ togglePassword.addEventListener('click', () => {
     passwordInput.setAttribute('type', type);
 
     // Toggle the icon class
-    togglePassword.classList.toggle('bx-show'); // eye icon (shows password)
-    togglePassword.classList.toggle('bx-hide'); // crossed eye icon (hides password)
+    togglePassword.classList.toggle('bx-hide'); // eye icon (shows password)
+    togglePassword.classList.toggle('bx-show'); // crossed eye icon (hides password)
 });
