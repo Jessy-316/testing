@@ -71,7 +71,7 @@ body {
 
 .input-box .toggle-password {
     position: absolute;
-    right: -275px;
+    right: 45px;
     top: 50%;
     transform: translateY(-50%);
     font-size: 20px;
